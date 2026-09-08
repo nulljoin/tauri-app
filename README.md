@@ -79,10 +79,6 @@ Documentation in a polyglot system is a tricky proposition. To this end, we pref
 
 For the complete list of sponsors please visit our [website](https://tauri.app#sponsors) and [Open Collective](https://opencollective.com/tauri).
 
-## Organization
-
-Tauri aims to be a sustainable collective based on principles that guide sustainable free and open software communities. To this end it has become a Programme within the [Commons Conservancy](https://commonsconservancy.org/), and you can contribute financially via [Open Collective](https://opencollective.com/tauri).
-
 ## Licenses
 
 Code: (c) 2015 - Present - The Tauri Programme within The Commons Conservancy.
